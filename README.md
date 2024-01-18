@@ -13,6 +13,6 @@ Empowering users with a unique and engaging interaction, the app allows the seam
 * 0.0.1
     * Work in progress
 
-## Meta
+## Contact
 
 Alex Mierzejewski – alexmierzejewski@hotmail.com
