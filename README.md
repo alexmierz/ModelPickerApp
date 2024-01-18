@@ -6,7 +6,6 @@ Constructed entirely within XCode using the advanced SwiftUI framework, this app
 
 Empowering users with a unique and engaging interaction, the app allows the seamless selection and placement of diverse 3D models within their physical environment which were found at https://developer.apple.com/augmented-reality/quick-look/. Leveraging the capabilities of augmented reality, this feature opens up endless possibilities for creativity and practical applications. Experience the fusion of design and functionality as you effortlessly integrate digital elements into the real world through our meticulously crafted AR application.
 
-![](img.jpeg)
 
 ## Installation
 
